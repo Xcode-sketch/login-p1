@@ -88,6 +88,7 @@ input:hover {
 }
 
 .btn:hover {
+    transition: background-color 0.25s ease-in-out;
     background-color: transparent;
 }
 
